@@ -1,7 +1,7 @@
 # Megan Smith: Earth Scientist + Earth gardener
 
 ## Contact info: ##
--Megan M. Smith<br>  
+-Megan M. Smith<br>
 -@megan8617<br> 
 -megan8617@gmail.com<br> 
 
