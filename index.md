@@ -1,2 +1,10 @@
-# Megan: Earth Scientist + Earth gardener
-![MSmith_Barcelona2019](https://github.com/megan8617/megan8617.github.io/assets/108903377/440877c1-77d9-4224-8378-9f7fd423f8a2)
+# Megan Smith: Earth Scientist + Earth gardener
+
+## Contact info: ##
+-Megan M. Smith
+-@megan8617
+-megan8617@gmail.com
+
+## About Me: ##
+
+<img src="https://github.com/megan8617/megan8617.github.io/assets/108903377/440877c1-77d9-4224-8378-9f7d423f8a2" width="100">
