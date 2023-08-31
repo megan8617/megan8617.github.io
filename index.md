@@ -1,4 +1,4 @@
-# Megan Smith: Earth Scientist + Earth gardener
+# Megan Smith: Earth scientist + Earth gardener
 ![MSmith_small](https://github.com/megan8617/megan8617.github.io/assets/108903377/813ea5d4-995d-4893-aa7a-fc71cd6a65e3)
 
 ## Contact info: ##
