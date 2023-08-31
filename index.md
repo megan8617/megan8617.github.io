@@ -19,7 +19,7 @@
 -B.S., Geological Sciences, University of Oregon<br>
 
 ## About Me ##
-I am an Earth scientist living in California and working at a national laboratory. Studying the reactivity of fluids in the subsurface has surprisingly kept me gainfully and mostly happily employed, working on topics like geological carbon storage, water-rock reaction kinetics, contaminant transport processes, geothermal energy operations, subsurface hydrogen storage and mining waste mineralization. I also recently earned my Master Gardener certification and am on a mission to reduce my water usage in and around my house, starting with killing my lawn.
+I am an Earth scientist living in California and working at a national laboratory. Studying the reactivity of fluids in the subsurface has surprisingly kept me gainfully and mostly happily employed, working on topics like geological carbon storage, water-rock reaction kinetics, contaminant transport processes, geothermal energy operations, subsurface hydrogen storage and mining waste mineralization. I also recently earned my Master Gardener certification and am on a mission to reduce my water usage in and around my house, starting with killing my lawn and replacing most of it with native buckwheats.
 
 ## Questions I sometimes think about and want to answer using Earth Data Science ##
 How do you know when you've collected enough rock characterization data to have "good" statistics?<br>
