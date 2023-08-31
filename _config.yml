@@ -1,2 +1,5 @@
-name: I hate graveyards and old pawn shops
-theme: cayman
+title: Megan M. Smith
+description: Earth scientist + Earth gardener
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: true
+google analytics: 
