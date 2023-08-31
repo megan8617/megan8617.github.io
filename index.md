@@ -5,9 +5,15 @@
 -Megan M. Smith<br>
 -@megan8617<br> 
 -megan8617@gmail.com<br>
+-https://people.llnl.gov/smith447<br>
 -www.linkedin.com/in/megan-smith-54925451<br>
 
 ## About Me: ##
 #### Professional ####
--Porous Media Group Leader, Atmospheric, Earth and Energy Division, Lawrence Livermore National Laboratory
+-Porous Media Group Leader, Atmospheric, Earth and Energy Division (AEED), Lawrence Livermore National Laboratory (LLNL), 2021-current<br>
+-Subsurface Transport Deputy Group Leader, AEED, LLNL, 2017-2021<br>
+-Staff Scientist, Geological Hydrologic and Environmental Sciences, AEED, LLNL, 2013-current<br>
+
+#### Education ####
+-
 I am a research scientist and group leader at 
