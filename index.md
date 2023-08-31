@@ -4,9 +4,9 @@
 ## Contact info: ##
 -Megan M. Smith<br>
 -@megan8617<br> 
--megan8617@gmail.com<br>
+-megan8617-at-gmail.com<br>
 -https://people.llnl.gov/smith447<br>
--www.linkedin.com/in/megan-smith-54925451<br>
+-https://www.linkedin.com/in/megan-smith-54925451<br>
 
 ## Professional ##
 -Porous Media Group Leader: Lawrence Livermore National Laboratory (LLNL), 2021-current<br>
