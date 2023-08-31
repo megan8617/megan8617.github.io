@@ -20,3 +20,27 @@
 
 ## About Me ##
 I am an Earth scientist living in California and working at a national laboratory. Studying the reactivity of fluids in the subsurface has surprisingly kept me gainfully and mostly happily employed, working on topics like geological carbon storage, water-rock reaction kinetics, contaminant transport processes, geothermal energy operations, subsurface hydrogen storage and mining waste mineralization. I also recently earned my Master Gardener certification and am on a mission to reduce my water usage in and around my house, starting with killing my lawn.
+
+## Questions I sometimes think about and want to answer using Earth Data Science ##
+How do you know when you've collected enough rock characterization data to have "good" statistics?<br>
+
+How long it will take me to drive to the beach from anywhere after X amount of climate-change-driven sea level rise?<br>
+
+Is it possible to visualize  daily residential home energy usage on a county- or regional-scale basis?<br>
+
+What's the best way to align two elevation datasets (with errors)?<br>
+
+How much _total_ groundwater are Californians (and/or adjacent-state folks too) really pumping on an annual basis?<br>
+
+What are the primary orientations of all the faults and veins in the core drilled at the 4100' level of the Homestake Mine?<br>
+
+What's the most efficient way to analyze huge image datasets?<br>
+
+How to develop ball-and-stick flowtube models from XRCT image datasets with irregular-shaped porosity??)<br>
+
+
+
+
+
+  
+
